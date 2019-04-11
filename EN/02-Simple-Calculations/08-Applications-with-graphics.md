@@ -53,6 +53,7 @@ To **catch an event** we use the events icon (Events) in the **Properties**  win
 
 [image src=https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN/blob/master/assets/chapter-2-images/13.Currency-converter-08.png alt="Events in Visual Studio" /] 
 [/slide]
+[slide]
 
 ### Writing the program code and testing the application
 
