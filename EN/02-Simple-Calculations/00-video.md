@@ -2,6 +2,6 @@
 
 [slide]
 
-[video id='VIMEO_ID' /]
+[youtube-video id='VIMEO_ID' /]
 
 [/slide]
