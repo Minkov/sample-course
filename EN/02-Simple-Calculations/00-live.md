@@ -1,6 +1,7 @@
 # Live stream
 
 [slide]
+# Slide Title
 [live-stream id='YOUTUBE_ID' /]
 
 [slido id='SLIDO_ID' /]
