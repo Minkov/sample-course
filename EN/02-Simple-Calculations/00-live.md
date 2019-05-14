@@ -2,8 +2,8 @@
 
 [slide]
 # Slide Title
-[live-stream id='YOUTUBE_ID' /]
+[live-stream id='bebuiaSKtU4' /]
 
-[slido id='SLIDO_ID' /]
+[slido id='x9un653z' /]
 
 [/slide]
