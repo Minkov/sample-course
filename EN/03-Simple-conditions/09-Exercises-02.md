@@ -14,3 +14,4 @@ The first exercise for this topic is to write a **console program** that **input
 [code-io /]
 
 [/code-task]
+[/slide]
