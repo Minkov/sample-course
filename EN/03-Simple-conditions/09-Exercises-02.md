@@ -1,7 +1,7 @@
 [slide]
 # Exercises: simple conditions
 
-[code-task title="Excellent grade" executionStrategy="csharp-dot-net-core-code" requiresInput id="simple-conditions-1"]
+[code-task title="Excellent grade" executionStrategy="csharp-dot-net-core-code" requiresInput taskId="simple-conditions-1"]
 
 [code-editor language=csharp]
 var grade = double.Parse(Console.ReadLine());
