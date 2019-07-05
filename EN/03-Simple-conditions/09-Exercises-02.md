@@ -1,7 +1,7 @@
 [slide]
 # Exercises: simple conditions
 
-[code-task title="Excellent grade" executionStrategy="csharp-dot-net-core-code" requiresInput taskId="simple-conditions-1"]
+[code-task title="Excellent grade" executionType="tests-execution" executionStrategy="csharp-dot-net-core-code" requiresInput taskId="simple-conditions-1"]
 
 [code-editor language=csharp]
 var grade = double.Parse(Console.ReadLine());
@@ -12,6 +12,15 @@ The first exercise for this topic is to write a **console program** that **input
 [/task-description]
 
 [code-io /]
-
+[tests]
+[test]
+[input]
+1
+[/input]
+[output]
+10
+[/output]
+[/test]
+[/tests]
 [/code-task]
 [/slide]
