@@ -1,0 +1,2 @@
+[slide hideTitle]
+[/slide]
